@@ -1,4 +1,4 @@
-<img src="https://br.udacity.com/assets/iridium/images/nanodegree-overview/shared/nd-projects/nd004/project-3.jpg" alt="Logs Analysis Project" width="800px">
+<img src="https://br.udacity.com/assets/iridium/images/nanodegree-overview/shared/nd-projects/nd004/project-3.jpg" alt="Logs Analysis Project" width="300px">
 
 # Logs Analysis Project #
 * [Full Stack Web Developer Nanodegree](https://classroom.udacity.com/nanodegrees/nd004)
